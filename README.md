@@ -1,2 +1,4 @@
 # KernelFuzzingProject
-A Summary of kernel fuzzing project
+A summary of kernel fuzzing project
+
+Just for fun. 
