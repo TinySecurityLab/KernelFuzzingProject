@@ -54,7 +54,7 @@ https://github.com/Digits88/Android-Kernel-debugs
 
 ### Driver fuzzing
 https://github.com/k0keoyo/kDriver-Fuzzer  
-
+(An Introduction in chinese: https://www.anquanke.com/post/id/97245 )  
 https://github.com/debasishm89/iofuzz   
 
 https://github.com/Cr4sh/ioctlfuzzer   
@@ -64,14 +64,16 @@ https://github.com/shjalayeri/ktest
 https://github.com/koutto/ioctlbf   
 
 https://github.com/ucsb-seclab/difuze   
-
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Corina-Difuzzing-Android-Kernel-Drivers.pdf
 
 ## 2.Papers 
 
 RedQueen,Checksum/MagicValue Bypass   
 https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2018/12/17/NDSS19-Redqueen.pdf   
 
+https://lifeasageek.github.io/papers/jeong-razzer.pdf
 
+https://people.cs.kuleuven.be/~stijn.volckaert/papers/2019_NDSS_PeriScope.pdf
 
 #### KAFL  
 https://github.com/RUB-SysSec/kAFL   
@@ -95,6 +97,9 @@ Pan J, Yan G, Fan X. Digtool: A virtualization-based framework for detecting ker
 ## 3.Slides 
 https://github.com/richinseattle/EvolutionaryKernelFuzzing/blob/master/slides/Evolutionary%20Kernel%20Fuzzing-BH2017-rjohnson-FINAL.pdf  
 
+Kernel fuzzing with Symbolic Information
+https://www.cerias.purdue.edu/assets/symposium/2018-posters/829-D1B.pdf . 
+
 http://archive.hack.lu/2018/Slides_Fuzzing_Workshop_Hack.lu_v1.0.pdf  
 
 https://www.openbsd.org/papers/fuzz-slides.pdf   
@@ -102,6 +107,8 @@ https://www.openbsd.org/papers/fuzz-slides.pdf
 https://fuzzinginfo.files.wordpress.com/2012/11/nagy-kernel.pdf   
 
 https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-fuzzing-the-windows-kernel.pdf   
+https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-Platform-Agnostic-Kernel-Fuzzing-FINAL.pdf  
+https://labs.mwrinfosecurity.com/assets/BlogFiles/bg-Windows-Kernel-Fuzzing.pdf
 
 https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf   
 
@@ -111,7 +118,7 @@ http://www.ragestorm.net/blogs/wp-content/uploads/Kernel-Exploits.ppt
 
 https://strlen.de/talks/debug-w-syzkaller.pdf   
 
-https://events.static.linuxfound.org/sites/events/files/slides/AFL%20filesystem%20fuzzing,%20Vault%202016_0.pdf   
+https://events.static.linuxfound.org/sites/events/files/slides/AFL%20filesystem%20fuzzing,%20Vault%202016_0.pdf    
 
 #### Android 
 https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf   
