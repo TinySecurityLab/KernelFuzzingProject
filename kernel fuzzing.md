@@ -75,7 +75,7 @@ https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2018/12/17/
 
 #### KAFL  
 https://github.com/RUB-SysSec/kAFL   
-Schumilo S, Aschermann C, Gawlik R, et al. kafl: Hardware-assisted feedback fuzzing for OS kernels[C]//Adresse: https://www. usenix. org/system/files/conference/usenixsecurity17/sec17-schumilo. pdf  
+Schumilo S, Aschermann C, Gawlik R, et al. kafl: Hardware-assisted feedback fuzzing for OS kernels[C]//Adresse: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf  
 
 Pan J, Yan G, Fan X. Digtool: A virtualization-based framework for detecting kernel vulnerabilities[C]//26th {USENIX} Security Symposium ({USENIX} Security 17). USENIX} Association}, 2017: 149-165.  
 
