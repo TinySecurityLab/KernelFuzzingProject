@@ -95,6 +95,8 @@ Pan J, Yan G, Fan X. Digtool: A virtualization-based framework for detecting ker
 ## 3.Slides 
 https://github.com/richinseattle/EvolutionaryKernelFuzzing/blob/master/slides/Evolutionary%20Kernel%20Fuzzing-BH2017-rjohnson-FINAL.pdf  
 
+http://archive.hack.lu/2018/Slides_Fuzzing_Workshop_Hack.lu_v1.0.pdf  
+
 https://www.openbsd.org/papers/fuzz-slides.pdf   
 
 https://fuzzinginfo.files.wordpress.com/2012/11/nagy-kernel.pdf   
