@@ -18,7 +18,7 @@ https://github.com/nccgroup/TriforceLinuxSyscallFuzzer
 https://github.com/timnewsham/TriforceFreeBSDSyscallFuzzer  
 
 https://github.com/Nicholas1126/MHA_Kernel  
-https://github.com/hafgham/Linux_Fuzzing_Project 
+https://github.com/hafgham/Linux_Fuzzing_Project  
 https://github.com/gracesrm/LKM-system-call-fuzzing   
 https://github.com/oracle/kernel-fuzzing   
 https://github.com/riboseinc/fuzzbsd   
