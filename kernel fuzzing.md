@@ -3,10 +3,19 @@
 Syzkaller for \*nix, best of best. from Google 
 https://github.com/google/syzkaller 
 
-https://github. com/kernelslacker/trinity 
+Bochspwn/Bochspwn Reloaded/Bochspwn Revolution/
+https://github.com/googleprojectzero/bochspwn
+Jurczyk M. Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking[R]. 2018.
+
+Trinity for Linux, fuzzing syscalls.
+https://github.com/kernelslacker/trinity 
 
 KernelFuzzer for Windows 7 / 10, OS X and QNX, from [@NerdKernel] (https://twitter.com/NerdKernel) / [@munmap] (https://twitter.com/munmap). 
 https://github.com/mwrlabs/KernelFuzzer 
+
+For Mac OS:  
+*IMF(CCS'17)
+https://github.com/SoftSec-KAIST/IMF   
 
 https://github.com/mwrlabs/OSXFuzz 
 
@@ -24,7 +33,26 @@ github.com/Cr4sh/ioctlfuzzer
 RedQueen,Checksum/MagicValue Bypass 
 https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2018/12/17/NDSS19-Redqueen.pdf 
 
-### In chinese 
+
+
+#### KAFL
+https://github.com/RUB-SysSec/kAFL
+Schumilo S, Aschermann C, Gawlik R, et al. kafl: Hardware-assisted feedback fuzzing for OS kernels[C]//Adresse: https://www. usenix. org/system/files/conference/usenixsecurity17/sec17-schumilo. pdf
+
+Pan J, Yan G, Fan X. Digtool: A virtualization-based framework for detecting kernel vulnerabilities[C]//26th {USENIX} Security Symposium ({USENIX} Security 17). USENIX} Association}, 2017: 149-165.
+
+### Paper in chinese 
+  YAO Hong-bo, YIN Liang, WEN Wei-ping. Based on the fuzzing lead to a new mining method based on windows kernel vulnerability.[J]. Netinfo Security. 2011(12).  
+  
+  ZHAO Yue-hua, DEN Yue-hao. Research and Implementation on Monitoring Race‐condition Vulnerablity in Kernel based on Virtual Machine Monitor[J]. Software Guide. 2015(5):161-164.
+  
+  HE Yuan, ZHANG Yu-Qing, ZHANG Guang-Hua. Android driver vulnerability discovery based on black-box genetic algorithm[J]. Chinese Journal of Computers. 2017, 40(5):1031-1043. 
+  
+  NI Tao. Research on key technologies for detection and exploitation of windows kernel vulnerabilities[D]. Information Engineering University. 2013. 
+
+  DEN Yue-hao. Design and Implementation on monitoring kernel-vulnerability system based on virtual machine monitor[D]. Jiangsu University. 2015 
+  
+  XU Yong-jian. Research on detecting vulnerabilities in linux driver[D]. Beijing University of Technology. 2015 
 
 ## Slides 
 [1].	
