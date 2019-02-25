@@ -13,9 +13,11 @@ Trinity for Linux, fuzzing syscalls.
 https://github.com/kernelslacker/trinity  
 https://github.com/zined/kfuzz  
 
-Triforce for Kernel fuzzing  
+Triforce for Kernel fuzzing   
 https://github.com/nccgroup/TriforceLinuxSyscallFuzzer  
 https://github.com/timnewsham/TriforceFreeBSDSyscallFuzzer  
+https://github.com/timnewsham/TriforceMagenta 
+
 
 https://github.com/Nicholas1126/MHA_Kernel  
 https://github.com/hafgham/Linux_Fuzzing_Project  
@@ -24,13 +26,12 @@ https://github.com/oracle/kernel-fuzzing
 https://github.com/riboseinc/fuzzbsd   
 https://github.com/mwrlabs/ViridianFuzzer   
 https://github.com/sk911215/Fuzzing-Test-of-Linux-Kernel-System-Call   
+https://github.com/MatthewTingum/XForceAFL  
 
-
-https://github.com/timnewsham/TriforceMagenta  
-https://github.com/MatthewTingum/XForceAFL   
 KernelFuzzer for Windows 7 / 10, OS X and QNX   
-https://github.com/mwrlabs/KernelFuzzer 
-https://github.com/jinb-park/kfuzz    
+https://github.com/mwrlabs/KernelFuzzer  
+https://github.com/jinb-park/kfuzz  
+
 #### For XUN (Mac OS/iOS):  
 IMF(CCS'17)   https://github.com/SoftSec-KAIST/IMF   
 https://github.com/UKERN-Developers/xnu-kernel-fuzzer   
@@ -43,7 +44,7 @@ https://github.com/nnamon/grapevine
 For fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.   
 https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX (chinese introduction: https://zhuanlan.zhihu.com/p/24580787) 
 
-### For Android . 
+### For Android  
 https://github.com/gamozolabs/slime_tree  
 
 https://github.com/datadancer/HIAFuzz   
@@ -51,7 +52,7 @@ https://github.com/datadancer/HIAFuzz
 https://github.com/Digits88/Android-Kernel-debugs   
 
 
-### driver fuzzing
+### Driver fuzzing
 https://github.com/debasishm89/iofuzz   
 
 https://github.com/Cr4sh/ioctlfuzzer   
@@ -113,7 +114,7 @@ https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Rec
 
 http://events17.linuxfoundation.org/sites/events/files/slides/ILP32_syscall_unit_test_linuxcon_europe_v2.pdf   
 
-#### driver fuzzing  
+#### Driver fuzzing  
 https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/iospy-and-ioattack   
 
 
