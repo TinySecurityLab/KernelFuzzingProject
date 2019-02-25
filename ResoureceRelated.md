@@ -11,3 +11,6 @@ https://github.com/r3p3r/paralax-Awesome-Fuzzing
 
 A curated list of the awesome resources about the Vulnerability Research  
 https://github.com/malicious0x01/Awesome-Vulnerability-Research   
+
+Ten years summary of infiltration attack 
+https://github.com/Micropoor/Micro8
