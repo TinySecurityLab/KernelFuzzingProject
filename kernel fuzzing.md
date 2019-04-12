@@ -24,7 +24,10 @@ https://github.com/hafgham/Linux_Fuzzing_Project
 https://github.com/gracesrm/LKM-system-call-fuzzing   
 https://github.com/oracle/kernel-fuzzing   
 https://github.com/riboseinc/fuzzbsd   
+
+Kernel driver to fuzz Hyper-V hypercalls . 
 https://github.com/mwrlabs/ViridianFuzzer   
+
 https://github.com/sk911215/Fuzzing-Test-of-Linux-Kernel-System-Call   
 https://github.com/MatthewTingum/XForceAFL  
 
@@ -33,12 +36,19 @@ https://github.com/mwrlabs/KernelFuzzer
 https://github.com/jinb-park/kfuzz  
 
 #### For XUN (Mac OS/iOS):  
-IMF(CCS'17)   https://github.com/SoftSec-KAIST/IMF   
+IMF(CCS'17 https://daramg.gift/paper/han-ccs2017.pdf)   
+https://github.com/SoftSec-KAIST/IMF  
+
 https://github.com/UKERN-Developers/xnu-kernel-fuzzer   
+
 https://github.com/mwrlabs/OSXFuzz   
+
 https://github.com/MTJailed/XNU-Kernel-Fuzzer   
+
 https://github.com/bringhurst/xnufuzz   
+
 https://github.com/block8437/xnufuzz2   
+
 https://github.com/nnamon/grapevine   
  
 For fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode.   
