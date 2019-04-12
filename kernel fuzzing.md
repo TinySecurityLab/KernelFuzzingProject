@@ -7,6 +7,7 @@ https://github.com/google/syzkaller
 
 Bochspwn/Bochspwn Reloaded/Bochspwn Revolution/   
 https://github.com/googleprojectzero/bochspwn  
+https://github.com/googleprojectzero/bochspwn-reloaded
 Jurczyk M. Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking[R]. 2018.  
 
 Trinity for Linux, fuzzing syscalls.   
@@ -22,7 +23,10 @@ https://github.com/timnewsham/TriforceMagenta
 https://github.com/Nicholas1126/MHA_Kernel  
 https://github.com/hafgham/Linux_Fuzzing_Project  
 https://github.com/gracesrm/LKM-system-call-fuzzing   
+
+AFL+QEMU  
 https://github.com/oracle/kernel-fuzzing   
+
 https://github.com/riboseinc/fuzzbsd   
 
 Kernel driver to fuzz Hyper-V hypercalls . 
@@ -117,7 +121,9 @@ https://www.openbsd.org/papers/fuzz-slides.pdf
 https://fuzzinginfo.files.wordpress.com/2012/11/nagy-kernel.pdf   
 
 https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-fuzzing-the-windows-kernel.pdf   
+
 https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-Platform-Agnostic-Kernel-Fuzzing-FINAL.pdf  
+
 https://labs.mwrinfosecurity.com/assets/BlogFiles/bg-Windows-Kernel-Fuzzing.pdf
 
 https://conference.hitb.org/hitbsecconf2014kul/materials/D2T1%20-%20Ben%20Nagy%20-%20ALPC%20Fuzzing%20Toolkit.pdf   
