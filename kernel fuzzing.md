@@ -93,6 +93,10 @@ https://people.cs.kuleuven.be/~stijn.volckaert/papers/2019_NDSS_PeriScope.pdf
 https://github.com/RUB-SysSec/kAFL   
 Schumilo S, Aschermann C, Gawlik R, et al. kafl: Hardware-assisted feedback fuzzing for OS kernels[C]//Adresse: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf  
 
+#### JANUS  
+Fuzzing File Systems via Two-Dimensional Input Space Exploration  (S&P 2019)
+https://www.computer.org/csdl/proceedings/sp/2019/6660/00/666000a577.pdf  
+
 Pan J, Yan G, Fan X. Digtool: A virtualization-based framework for detecting kernel vulnerabilities[C]//26th {USENIX} Security Symposium ({USENIX} Security 17). USENIX} Association}, 2017: 149-165.  
 
 ### Paper in chinese  
